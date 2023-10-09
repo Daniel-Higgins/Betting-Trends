@@ -12,4 +12,4 @@ twice a data and create a graph based on each game. The graph is posted to a sta
 HTML file hosted in AWS S3. On this webpage is The game, odds graph, and logged data of when
 the odds were recorded. Happy betting !
 
-![image](https://github.com/Daniel-Higgins/Betting-Trends/assets/32625437/213ea082-a4c6-4d74-bbfc-c9dd6ff57237)
+![image](https://github.com/Daniel-Higgins/Betting-Trends/assets/32625437/df68ea25-bb2b-472e-87ba-2a9d8088e970)
